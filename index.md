@@ -9,12 +9,16 @@ Data requests needed for sharing of professional work are pending
   
   <img src="images/JCO.png"
   width="300px">
+  
 ---
+
 - Wright, Noah. 2023. “The Politics of Performance Measurement.” Real World Data Science, April 18, 2023. [URL](https://realworlddatascience.net/careers/posts/2023/04/18/politics-of-performance-measurement.html)
 
   <img src="images/Crowd.png"
   width="300px">
+  
 ---
+
 - "Data Visualization in _Capital in the 21st Century_" World Economic Review 5: 54-72, 2015. [URL](http://wer.worldeconomicsassociation.org/papers/data-visualization-in-capital-in-the-21st-century/)
 
   <img src="images/Piketty.png"
