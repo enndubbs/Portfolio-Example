@@ -1,9 +1,9 @@
-### Professional Work
-## Data Requests Pending
+## Professional Work
+### Data Requests Pending
 
 ---
 
-### Publications
+## Publications
 
 - “Learning from failure: ‘Red flags’ in body-worn camera data.” Real World Data Science, November 16, 2023. [URL](https://realworlddatascience.net/case-studies/posts/2023/11/16/learning-from-failure.html)
 
@@ -13,7 +13,7 @@
 
 ---
 
-### Personal Projects
+## Personal Projects
 
 [These Two Maps Have Equal Population](https://medium.com/@noah-degrange/these-two-maps-have-equal-population-1ea46d5ac233)
 <img src="images/Equal Pop.webp"/>
