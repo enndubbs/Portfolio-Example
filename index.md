@@ -15,11 +15,13 @@ Data requests needed for sharing of professional work are pending
 
 ## Personal Projects
 
-### [These Two Maps Have Equal Population](https://medium.com/@noah-degrange/these-two-maps-have-equal-population-1ea46d5ac233)
+### [These Two Maps Have Equal Population](https://medium.com/@noah-degrange/these-two-maps-have-equal-population-1ea46d5ac233) 
+[Github](https://github.com/enndubbs/Population-Density)
 <img src="images/Equal Pop.webp"/>
 
 ---
 ### [What is “Majority-Minority” and Why is it Stupid to Obsess Over?](https://noah-degrange.medium.com/what-is-majority-minority-and-why-is-it-stupid-to-obsess-over-acc6ea941a0f)
+[Github](https://github.com/enndubbs/Majority-Minority)
 <img src="images/White Tract.webp"/>
 
 
