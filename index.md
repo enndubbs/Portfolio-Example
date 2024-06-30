@@ -1,12 +1,5 @@
-## About
-
-Noah Wright is a data professional with over a decade of experience in quantitative research, analytics, grantmaking, teaching, and management. In his career he has worked on primarily social policy topics, including education, criminal justice, workforce development, poverty, and urban issues.
-
-He currently works as a Data Strategist for the Texas Juvenile Justice Department and volunteers for local pro-housing organizations. In his free time he enjoys dissecting pop culture and hosts a book club on [the history of Chicago](https://chipublib.bibliocommons.com/events/66672e7fe3e1ee3000432774/)
-  
-
 ## Professional Work
-### Data Requests Pending
+### Data requests needed for sharing of professional work are pending
 
 ---
 
@@ -32,6 +25,12 @@ He currently works as a Data Strategist for the Texas Juvenile Justice Departmen
 
 
 ---
+
+## About
+
+Noah Wright is a data professional with over a decade of experience in quantitative research, analytics, grantmaking, teaching, and management. In his career he has worked on primarily social policy topics, including education, criminal justice, workforce development, poverty, and urban issues.
+
+He currently works as a Data Strategist for the Texas Juvenile Justice Department and volunteers for local pro-housing organizations. In his free time he enjoys dissecting pop culture and hosts a book club on [the history of Chicago](https://chipublib.bibliocommons.com/events/66672e7fe3e1ee3000432774/)
 
 
 
