@@ -41,7 +41,7 @@
 
 ## Personal Projects
 
-- ### [These Two Maps Have Equal Population](https://medium.com/@noah-degrange/these-two-maps-have-equal-population-1ea46d5ac233) 
+- [These Two Maps Have Equal Population](https://medium.com/@noah-degrange/these-two-maps-have-equal-population-1ea46d5ac233) 
 
 
   <img src="images/Equal Pop.webp"
@@ -50,7 +50,7 @@
   [(GitHub)](https://github.com/enndubbs/Population-Density)
 
 ---
-- ### [What is “Majority-Minority” and Why is it Stupid to Obsess Over?](https://noah-degrange.medium.com/what-is-majority-minority-and-why-is-it-stupid-to-obsess-over-acc6ea941a0f) 
+- [What is “Majority-Minority” and Why is it Stupid to Obsess Over?](https://noah-degrange.medium.com/what-is-majority-minority-and-why-is-it-stupid-to-obsess-over-acc6ea941a0f) 
 
 
   <img src="images/White Tract.webp"
