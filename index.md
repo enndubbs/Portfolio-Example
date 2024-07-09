@@ -1,5 +1,18 @@
 ## Professional Work
-Data requests needed for sharing of professional work are pending
+
+### Texas Juvenile Justice Department
+
+### Criminal Justice Division
+
+- "Portfolio Review" - Performance assessment of all agency grants organized by funding source and program type.
+
+  <img src="images/Portfolio Review.png"
+  width="300px">
+---
+- "Resources for Local Criminal Justice Planning" - Annual compilation of criminal justice and victims services data produced for each of the 24 Councils of Government of Texas.
+
+  <img src="images/COG Packet.png"
+  width="300px">
 
 ---
 
