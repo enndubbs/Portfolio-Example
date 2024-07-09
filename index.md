@@ -2,7 +2,7 @@
 
 ### Texas Juvenile Justice Department
 
-### Criminal Justice Division
+### Criminal Justice Division of Texas' Office of the Governor
 
 - "Portfolio Review" - Performance assessments of all agency grants organized by funding source and program type.
 
