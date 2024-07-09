@@ -4,7 +4,7 @@
 
 ### Criminal Justice Division
 
-- "Portfolio Review" - Performance assessment of all agency grants organized by funding source and program type.
+- "Portfolio Review" - Performance assessments of all agency grants organized by funding source and program type.
 
   <img src="images/Portfolio Review.png"
   width="300px">
