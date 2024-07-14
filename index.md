@@ -2,7 +2,33 @@
 
 ### Texas Juvenile Justice Department
 
+- One-pagers
+(link one-pagers)
+
+- Board Presentations
+
+[May 24, 2024](https://www.tjjd.texas.gov/index.php/doc-library/category/731-may-24-2024)
+Materials(link publicly-available PDF)
+[Video (appearance around 58:00)](https://register.gotowebinar.com/recording/4413543467425033822)
+
+- Monitoring dashboards
+
+(Screenshot - Power BI Report Server)
+(Screenshot - Incident dashboard)
+(Screenshot - Turnover dashboard)
+(Screenshot - Overtime dashboard)
+
+- Data science
+
+Release criteria recidivism impacts
+
+Population time series model
+
 ### Criminal Justice Division of Texas' Office of the Governor
+
+- Grant monitoring dashboard
+
+(screenshot goes here)
 
 - "Portfolio Review" - Performance assessments of all agency grants organized by funding source and program type.
 
