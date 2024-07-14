@@ -2,23 +2,28 @@
 
 ### Texas Juvenile Justice Department
 
-- One-pagers
-(link one-pagers)
+- Performance dashboards - Business lead in setup of Power BI report server deployment for agency. Created multiple dashboards monitoring facility incidents, employee turnover, overtime usage, and other agency processes. Data unavailable publicly due to privacy restrictions.
 
-- Board Presentations
-
-[May 24, 2024](https://www.tjjd.texas.gov/index.php/doc-library/category/731-may-24-2024)
-Materials(link publicly-available PDF)
-[Video (appearance around 58:00)](https://register.gotowebinar.com/recording/4413543467425033822)
-
-- Monitoring dashboards
 
 (Screenshot - Power BI Report Server)
 (Screenshot - Incident dashboard)
 (Screenshot - Turnover dashboard)
 (Screenshot - Overtime dashboard)
 
-- Data science
+-  One-pagers - Developed explanatory documents of juvenile justice system and processes for external stakeholders.
+(link one-pagers)
+
+- Public Presentations - Regularly provided updates to TJJD governing board and executive staff on the current state of the juvenile justice system.
+
+[TJJD Governing Board, May 24, 2024](https://www.tjjd.texas.gov/index.php/doc-library/category/731-may-24-2024)
+
+[-Materials](https://www.tjjd.texas.gov/index.php/doc-library/send/731-may-24-2024/3517-tjjd-waitlist-causes-and-options-may-2024)
+
+[-Video (appearance around 58:00)](https://register.gotowebinar.com/recording/4413543467425033822)
+
+(link other board meetings I appear in)
+
+- Data science - Modeled population projections and the impacts of release criteria on recidivism. Data unavailable publicly due to privacy restrictions.
 
 Release criteria recidivism impacts
 
@@ -26,16 +31,12 @@ Population time series model
 
 ### Criminal Justice Division of Texas' Office of the Governor
 
-- Grant monitoring dashboard
-
-(screenshot goes here)
-
 - "Portfolio Review" - Performance assessments of all agency grants organized by funding source and program type.
 
   <img src="images/Portfolio Review.png"
   width="300px">
 ---
-- "Resources for Local Criminal Justice Planning" - Annual compilation of criminal justice and victims services data produced for each of the 24 Councils of Government of Texas.
+- "Resources for Local Criminal Justice Planning" - Annual compilation of criminal justice and victims services data produced for each of the 24 Councils of Government of Texas. Data unavailable publicly due to privacy restrictions.
 
   <img src="images/COG Packet.png"
   width="300px">
