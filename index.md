@@ -4,16 +4,16 @@
 
 **Performance dashboards**
 
-Business lead in setup of Power BI report server deployment for agency. Created multiple dashboards monitoring facility incidents, employee turnover, overtime usage, and other agency processes. Data unavailable publicly due to legal restrictions.
+Business lead in setup of Power BI report server deployment for agency. Created multiple dashboards monitoring facility incidents, employee turnover, overtime usage, and other agency processes. 
 
-_(Screenshots pending public information request)_
+_Screenshots pending public information request_
 
 
 **One-pagers**
 
 Developed explanatory documents of juvenile justice system and processes for external stakeholders.
 
-_(Examples pending public information request)_
+_Examples pending public information request_
 
 
 **Public Presentations**
@@ -30,9 +30,9 @@ Regularly provided updates to TJJD governing board and executive staff on the cu
 
 **Data science**
 
-Modeled population projections and the impacts of release criteria on recidivism. Data unavailable publicly due to legal restrictions.
+Modeled population projections and the impacts of release criteria on recidivism.
 
-_(Screenshots pending public information request)_
+_Screenshots pending public information request_
 
 ---
 ### Criminal Justice Division of Texas' Office of the Governor
@@ -47,7 +47,7 @@ Performance assessments of all agency grants organized by funding source and pro
 
 **Resources for Local Criminal Justice Planning** 
 
-Annual compilation of criminal justice and victims services data produced for each of the 24 Councils of Government of Texas. Data unavailable publicly due to privacy restrictions.
+Annual compilation of criminal justice and victims services data produced for each of the 24 Councils of Government of Texas.
 
   <img src="images/COG Packet.png"
   width="300px">
