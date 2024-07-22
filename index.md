@@ -68,6 +68,13 @@ Population time series model
 
 ## Personal Projects
 
+- [Illinois Legislative Vote Tracker](https://public.tableau.com/app/profile/noahwright/viz/IllinoisLegislatorVotingRecord/ByBill)
+
+<img src="images/Equal Pop.webp"
+ width = "300px">
+
+ [Tableau](https://public.tableau.com/app/profile/noahwright/viz/IllinoisLegislatorVotingRecord/ByBill)
+
 - [These Two Maps Have Equal Population](https://medium.com/@noah-degrange/these-two-maps-have-equal-population-1ea46d5ac233) 
 
 
