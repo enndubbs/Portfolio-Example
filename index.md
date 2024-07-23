@@ -60,7 +60,7 @@ Annual compilation of criminal justice and victims services data produced for ea
   
 ---
 
-[Wright, Noah. 2023. “The Politics of Performance Measurement.” Real World Data Science, April 18, 2023.](https://realworlddatascience.net/careers/posts/2023/04/18/politics-of-performance-measurement.html)
+[“The Politics of Performance Measurement.” Real World Data Science, April 18, 2023.](https://realworlddatascience.net/careers/posts/2023/04/18/politics-of-performance-measurement.html)
 
   <img src="images/Crowd.png"
   width="300px">
