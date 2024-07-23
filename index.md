@@ -20,14 +20,13 @@ _Examples pending public information request_
 
 Regularly provided updates to TJJD governing board and executive staff on the current state of the juvenile justice system. Example:
 
-[TJJD Governing Board, May 24, 2024](https://www.tjjd.texas.gov/index.php/doc-library/category/731-may-24-2024) 
-[(Materials)](https://www.tjjd.texas.gov/index.php/doc-library/send/731-may-24-2024/3517-tjjd-waitlist-causes-and-options-may-2024) - [(Video - appearance around 58:00)](https://register.gotowebinar.com/recording/4413543467425033822)
+[**TJJD Governing Board, May 24, 2024**](https://www.tjjd.texas.gov/index.php/doc-library/category/731-may-24-2024) [(Materials)](https://www.tjjd.texas.gov/index.php/doc-library/send/731-may-24-2024/3517-tjjd-waitlist-causes-and-options-may-2024) [(Video - 58:00)](https://register.gotowebinar.com/recording/4413543467425033822)
 
 
 
 **Data science**
 
-Modeled population projections and the impacts of release criteria and youth characteristics on recidivism.
+Modeled population projections and assessed the impact release criteria and youth characteristics have on recidivism.
 
   <img src="images/Rearrest.png"
  width = "300px">
