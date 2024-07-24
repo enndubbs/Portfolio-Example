@@ -13,7 +13,8 @@ _Screenshots pending public information request_
 
 Developed explanatory documents of juvenile justice system and processes for external stakeholders. [Samples available on TJJD website](https://www.tjjd.texas.gov/about-the-tjjd/data-and-statistics/)
 
-
+  <img src="images/Size.png"
+  width="300px">
 
 
 **Public Presentations**
