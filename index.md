@@ -11,9 +11,9 @@ _Screenshots pending public information request_
 
 **One-pagers**
 
-Developed explanatory documents of juvenile justice system and processes for external stakeholders.
+Developed explanatory documents of juvenile justice system and processes for external stakeholders. [Samples available on TJJD website](https://www.tjjd.texas.gov/about-the-tjjd/data-and-statistics/)
 
-_Examples pending public information request_
+
 
 
 **Public Presentations**
