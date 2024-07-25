@@ -1,11 +1,3 @@
-[Professional Work](#professional-work)
-
-[Publications](#publications)
-
-[Personal Projects](#personal-projects)
-
-[About](#about)
-
 ## Professional Work
 
 ### Texas Juvenile Justice Department
