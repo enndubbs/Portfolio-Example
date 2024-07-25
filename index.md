@@ -6,7 +6,8 @@
 
 Business lead in setup of Power BI report server deployment for agency. Created multiple dashboards monitoring facility incidents, employee turnover, overtime usage, and other agency processes. 
 
-_Screenshots pending public information request_
+  <img src="images/PBI.png"
+  width="300px">
 
 
 **One-pagers**
