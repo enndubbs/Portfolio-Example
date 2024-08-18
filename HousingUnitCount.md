@@ -1,11 +1,3 @@
----
-title: "Housing by Occupied Unit Count"
-execute: 
-  echo: false
-format: html
-editor: visual
----
-
 In September of 2015, the Washington Post [analyzed census data to asses the breakdown of housing by unit count](https://tinyurl.com/bdd2nx45) for major American cities. After reading that article, I had a lot of follow-up questions and interest in how other cities and housing types shook out.
 
 First, the Washington Post analysis only included *large* U.S. cities. If we include cities down to 50,000 population, are there any that had a lower proportion of single-family detached housing than New York or Philadelphia?
