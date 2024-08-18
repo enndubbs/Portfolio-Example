@@ -24,8 +24,7 @@ Developed explanatory documents of juvenile justice system and processes for ext
 
 Regularly provided updates to TJJD governing board and executive staff on the current state of the juvenile justice system. Example:
 
-[**TJJD Governing Board, May 24, 2024**](https://www.tjjd.texas.gov/index.php/doc-library/category/731-may-24-2024) [(Materials)](https://www.tjjd.texas.gov/index.php/doc-library/send/731-may-24-2024/3517-tjjd-waitlist-causes-and-options-may-2024) [(Video - 58:00)](https://register.gotowebinar.com/recording/4413543467425033822)
-
+[**TJJD Governing Board, May 24, 2024**](https://www.tjjd.texas.gov/about-the-tjjd/governing-board/) [(Materials)](https://www.tjjd.texas.gov/wp-content/uploads/2024/05/Agenda-Item-12_System-Trends-and-Waitlist-Options.pdf) [(Video - 58:00)](https://register.gotowebinar.com/recording/4413543467425033822)
 
 
 **Data science**
