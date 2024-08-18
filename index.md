@@ -58,6 +58,8 @@ Annual compilation of criminal justice and victims services data produced for ea
 ## Publications
 
 [“Learning From Failure: ‘Red flags’ in Body-worn Camera Data.” Real World Data Science, November 16, 2023.](https://realworlddatascience.net/case-studies/posts/2023/11/16/learning-from-failure.html)
+
+This article details my work with the initial roll-out of body-worn camera monitoring at the Texas Juvenile Justice Department.
   
   <img src="images/JCO.png"
   width="300px">
@@ -66,6 +68,8 @@ Annual compilation of criminal justice and victims services data produced for ea
 
 [“The Politics of Performance Measurement.” Real World Data Science, April 18, 2023.](https://realworlddatascience.net/careers/posts/2023/04/18/politics-of-performance-measurement.html)
 
+This article details how I developed and implemented the performance assessment system for specialty courts in the State of Texas, and how that system became defunct.
+
   <img src="images/Crowd.png"
   width="300px">
   
@@ -73,12 +77,21 @@ Annual compilation of criminal justice and victims services data produced for ea
 
 ["Data Visualization in _Capital in the 21st Century_" World Economic Review 5: 54-72, 2015.](http://wer.worldeconomicsassociation.org/papers/data-visualization-in-capital-in-the-21st-century/)
 
+Critique of Thomas Piketty's misleading use of data visualization in _Capital in the 21st Century_
+
   <img src="images/Piketty.png"
   width="300px">
 
 ---
 
 ## Personal Projects
+
+[U.S. Housing by Occupied Unit Count](HousingUnitCount.md)
+
+  Used census data to create an extension of a Washington Post analysis of U.S. city housing unit types (single-family detached, missing middle, etc.). Also created a version for [Chicago neighborhoods](HousingUnitCountChi.md)
+
+<img src="images/Ascending.png"
+  width = "200px">  
 
 [Illinois Legislative Vote Tracker](https://public.tableau.com/app/profile/noahwright/viz/IllinoisLegislatorVotingRecord/ByBill)
 
