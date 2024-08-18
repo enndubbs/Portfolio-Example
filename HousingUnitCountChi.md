@@ -1,10 +1,4 @@
----
-title: "Housing by Occupied Unit Count - Chicago Neighborhoods"
-execute: 
-  echo: false
-format: html
-editor: visual
----
+# Housing by Occupied Unit Count - Chicago Neighborhoods
 
 In September of 2015, the Washington Post [analyzed census data to asses the breakdown of housing by unit count](https://tinyurl.com/bdd2nx45) for major American cities. After reading that article, I had a lot of follow-up questions and interest in how other cities and housing types shook out.
 
@@ -13,12 +7,16 @@ I did an extension of this analysis looking at smaller U.S. cities and sorting b
 The top 10 Chicago neighborhoods with the least single-family detached housing are comparable to the densest U.S. cities:
 
 ### Chicago neighborhoods with the least single-family detached housing
+  
+  <img src="images/WaPo Graphic.png"
+    fig-aline = "center"
+ width = "800px">
+ 
+  <img src="images/Ascending_CCA.png"
+ width = "800px">
 
-![](images/WaPo%20Graphic.png){fig-align="center" width="523"}
-
-![](images/Ascending_CCA.png)
-
-![](images/Ascending_CCA_Map.png){width="480"}
+   <img src="images/Ascending_CCA_Map.png"
+ width = "480px">
 
 These neighborhoods cluster downtown, but also along the lake shore, which has extensive high-rise waterfront condo developments.
 
@@ -26,21 +24,31 @@ At the other end, the top 10 Chicago neighborhoods with the most single-family d
 
 ### Chicago Neighborhoods with the most single-family detached housing
 
-![](images/WaPo%20Graphic.png){fig-align="center" width="523"}
+  <img src="images/WaPo Graphic.png"
+    fig-aline = "center"
+ width = "800px">
+ 
+  <img src="images/1detached_CCA.png"
+ width = "800px">
 
-![](images/1detached_CCA.png)
-
-![](images/1detached_CCA_Map.png){width="480"}
+   <img src="images/1detached_CCA_Map.png"
+ width = "480px">
 
 And this map is almost the exact opposite of the density map: all of the most single-family neighborhoods are at the edges of the city.
 
 But unlike many U.S. cities where the skyscraper district transitions straight into single-family housing, Chicago also has an extensive amount of missing middle housing:
 
 ### All cities with the most "missing-middle" housing
+  
+  <img src="images/WaPo Graphic.png"
+    fig-aline = "center"
+ width = "800px">
+ 
+  <img src="images/middle_CCA.png"
+ width = "800px">
 
-![](images/WaPo%20Graphic.png){fig-align="center" width="523"}
-
-![](images/middle_CCA.png)![](images/middle_CCA_Map.png){width="480"}
+   <img src="images/middle_CCA_Map.png"
+ width = "480px">
 
 These neighborhoods form a near-perfect ring between the dense downtown and the single-family neighborhoods at the periphery.
 
