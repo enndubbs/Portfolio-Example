@@ -2,7 +2,7 @@
 
 In September of 2015, the Washington Post [analyzed census data to asses the breakdown of housing by unit count](https://tinyurl.com/bdd2nx45) for major American cities. After reading that article, I had a lot of follow-up questions and interest in how other cities and housing types shook out.
 
-First, the Washington Post analysis only included *large* U.S. cities. If we include cities down to 50,000 population, are there any that had a lower proportion of single-family detached housing than New York or Philadelphia?
+First, the Washington Post analysis only included *large* U.S. cities. If we include cities down to 50,000 population, are there any that have a lower proportion of single-family detached housing than New York or Philadelphia?
 
 ### All cities with the least single-family detached housing
 
@@ -19,7 +19,7 @@ As it turned out, yes, there are! They broadly fall into 2 categories:
 
 2.  Single-family attached houses (rowhouses or townhouses) as a default instead of single-family detached houses.
 
-This is what high density looks like: , such as New York and surroundings, Florida beachside communities with extensive condo development, and other urban centers like D.C. and Boston.Just how geographically concentrated type 1 cities are into "major cities" and "Florida condo communities" becomes especially clear when sorted by the densest housing types:
+And both of these types of cities are geographically concentrated in specific areas. When sorting by the highest proportion of the densest housing type, we can see two subcategories that fall into the first type: major cities such as New York and surroundings or Florida beachside communities with extensive condo development:
 
 ### All cities with the most high-density housing
 
@@ -31,7 +31,7 @@ This is what high density looks like: , such as New York and surroundings, Flori
   <img src="images/20+.png"
  width = "800px">
 
-This occurs almost exclusively in Philadelphia and surroundings. the rowhouse-dominated cities are a class of their own, almost exclusively falling in the mid-Atlantic:
+The second type is even more concentrated into one specific U.S. region, which becomes especially clear when we look at a list of the cities with the highest proportion of single-family attached housing:
 
 ### All cities with the most single-family attached housing
 
@@ -45,9 +45,9 @@ This occurs almost exclusively in Philadelphia and surroundings. the rowhouse-do
   <img src="images/1attachedmap.png"
  width = "800px">
 
-All of the top 19 are located in this narrow region of the US, with only #20 being located elsewhere (Palm Desert, CA).
+All of the top 19 are located in the mid-Atlantic, particularly around Philadelphia and surroundings. Only #20, Palm Desert, CA, is located elsewhere.
 
-Finally, what about the opposite? Where do we find the cities with the *most* single-family detached housing?
+So far we've looked at the cities with the least single-family detached housing, but what about the opposite? Where do we find the cities with the *most* single-family detached housing?
 
 ### All cities with the most single-family detached housing
  
@@ -58,13 +58,13 @@ Finally, what about the opposite? Where do we find the cities with the *most* si
   <img src="images/1detached.png"
  width = "800px">
 
-It's actually quite rare to find cities of over 50,000 people where over 90% of occupied units are single-family detached housing. Of those that are, several are planned communities such as The Villages or Levittowns that were explicitly intended to only contain single-family detached housing.
+It's actually quite rare to find cities where over 90% of occupied units are single-family detached housing. Of those that are, several are planned communities such as The Villages or Levittowns that were explicitly intended to only contain single-family detached housing.
 
-Urbanists frequently talk about a "missing middle" of housing: more dense than single-family housing but less so than mid-rise apartments:
+Finally, that leaves us with "missing middle" housing: more dense than single-family housing but less so than mid-rise apartments. 
 
 ![](images/Missing%20Middle.jpg)
 
-What U.S. cities already have the highest proportion of this type of housing?
+Are there any U.S. cities where this type of housing predominates?
 
 ### All cities with the most "missing-middle" housing
 
