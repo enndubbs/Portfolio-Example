@@ -92,6 +92,7 @@ Critique of Thomas Piketty's misleading use of data visualization in _Capital in
 <img src="images/Ascending.png"
   width = "200px">  
 
+---
 [Illinois Legislative Vote Tracker](https://public.tableau.com/app/profile/noahwright/viz/IllinoisLegislatorVotingRecord/ByBill)
 
   Scraped 76,000+ vote record PDF's from ilga.gov and created structured dataset for ease of analysis. Published simple Tableau interface (linked above) for 93rd-99th General Assembly. Please follow up if interested in more recent sessions.
