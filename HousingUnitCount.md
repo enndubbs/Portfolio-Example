@@ -6,9 +6,12 @@ First, the Washington Post analysis only included *large* U.S. cities. If we inc
 
 ### All cities with the least single-family detached housing
 
-![](images/WaPo%20Graphic.png){fig-align="right" width="800"}
-
-![](images/Ascending.png){width="800"}
+  <img src="images/WaPo Graphic.png"
+    fig-aline = "center"
+ width = "800px">
+ 
+  <img src="images/Ascending.png"
+ width = "800px">
 
 As it turned out, yes, there are! They broadly fall into 2 categories:
 
@@ -20,29 +23,40 @@ This is what high density looks like: , such as New York and surroundings, Flori
 
 ### All cities with the most high-density housing
 
-![](images/WaPo%20Graphic.png){fig-align="center" width="777"}
 
-![](images/20+.png)
+  <img src="images/WaPo Graphic.png"
+    fig-aline = "center"
+ width = "800px">
+ 
+  <img src="images/20+.png"
+ width = "800px">
 
 This occurs almost exclusively in Philadelphia and surroundings. the rowhouse-dominated cities are a class of their own, almost exclusively falling in the mid-Atlantic:
 
 ### All cities with the most single-family attached housing
 
-![](images/WaPo%20Graphic.png){fig-align="center" width="777"}
-
-![](images/1attached.png)
-
-![](images/1attachedmap.png)
+  <img src="images/WaPo Graphic.png"
+    fig-aline = "center"
+ width = "800px">
+ 
+  <img src="images/1attached.png"
+ width = "800px">
+ 
+  <img src="images/1attachedmap.png"
+ width = "800px">
 
 All of the top 19 are located in this narrow region of the US, with only #20 being located elsewhere (Palm Desert, CA).
 
 Finally, what about the opposite? Where do we find the cities with the *most* single-family detached housing?
 
 ### All cities with the most single-family detached housing
-
-![](images/WaPo%20Graphic.png){fig-align="center" width="777"}
-
-![](images/1detached.png)
+ 
+  <img src="images/WaPo Graphic.png"
+    fig-aline = "center"
+ width = "800px">
+ 
+  <img src="images/1detached.png"
+ width = "800px">
 
 It's actually quite rare to find cities of over 50,000 people where over 90% of occupied units are single-family detached housing. Of those that are, several are planned communities such as The Villages or Levittowns that were explicitly intended to only contain single-family detached housing.
 
@@ -54,9 +68,12 @@ What U.S. cities already have the highest proportion of this type of housing?
 
 ### All cities with the most "missing-middle" housing
 
-![](images/WaPo%20Graphic.png){fig-align="center" width="777"}
-
-![](images/middle.png)
+  <img src="images/WaPo Graphic.png"
+    fig-aline = "center"
+ width = "800px">
+ 
+  <img src="images/middle.png"
+ width = "800px">
 
 Older, mid-sized Northeastern cities, as it turns out. These are places in which the housing stock was mostly constructed before automobiles but also places that did not grow so large or dense that this housing got torn down and replaced with higher density.
 
